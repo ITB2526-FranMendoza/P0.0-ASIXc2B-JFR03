@@ -1,4 +1,3 @@
-..
 # P0.0 - Despliegue de infraestructura (Módulo 0379)
 
 Proyecto intermodular de administración de sistemas informáticos en red.
