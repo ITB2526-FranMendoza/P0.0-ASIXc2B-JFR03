@@ -25,23 +25,23 @@ Institut Tecnològic de Barcelona - ASIX c2 - Equipo **JFR03**
 | Persona 2 | Jesús Palma Palma | Datos y aplicación |
 | Persona 3 | Fran Mendoza Jiménez | Acceso, clientes, control de versiones y documentación |
 
-Profesorado: Miguel Ángel González del Rio y Sergi Grangel Massana.
+Profesorado: Miguel Ángel González del Rio y Sergi Grangel Massana
 
 ## 2. Objetivo
 
 Preparar la infraestructura para una aplicación multicapa (servidor web, monitor de redes, SSH, base de datos, DHCP, DNS y FTP).
 
 - Duración prevista: 6 semanas, hasta el **18/11**.
-- En los nombres de equipo, `NCC` indica el número de equipo (N01, N02, ...).
+- En los nombres de equipo, `NCC` indica el número de equipo (N01, N02, ...)
 
 ## 3. Requisitos del proyecto
 
 - Planificar las tareas en **Proofhub**.
-- Sprints quincenales de 10 horas de trabajo (5 horas semanales). En total, **3 sprints**.
-- Definir las tareas en el backlog del proyecto en Proofhub.
-- Cada grupo tiene un proyecto con la nomenclatura `P0.0-ASIXc2gC-Gnn`, donde `g` es el grupo (A o B) y `nn` el número de grupo con dos dígitos.
+- Sprints quincenales de 10 horas de trabajo (5 horas semanales). En total, **3 sprints**
+- Definir las tareas en el backlog del proyecto en Proofhub
+- Cada grupo tiene un proyecto con la nomenclatura `P0.0-ASIXc2gC-Gnn`, donde `g` es el grupo (A o B) y `nn` el número de grupo con dos dígitos
 - Todos los sistemas (y aplicaciones que se monten) deben tener un usuario `bchecker` que permita acceder a los equipos. La contraseña está indicada en el enunciado de la práctica y no se publica en este repositorio.
-- Definir un diagrama de la arquitectura que se desplegará.
+- Definir un diagrama de la arquitectura que se desplegará
 
 ### 3.1 Hardware de red
 
